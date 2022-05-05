@@ -1,5 +1,5 @@
 # FlutterProjects
-The projects in the repo are the completed project code for tasks in the flutter complete bootcamp course can be found in the folder Flutter Bootcamp Projects. 
+The projects in the repo are the completed project code, that I've made for self learning included with proper comments in different domains of concepts in flutter. 
 
 More tutorials and projects coming soon!
 
